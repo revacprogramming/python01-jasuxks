@@ -12,3 +12,4 @@ for line in fh:                    romeo.txt
             lst.append(element)        
 lst.sort()                         
 print lst                         
+ 
